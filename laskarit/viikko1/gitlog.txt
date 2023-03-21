@@ -1,0 +1,78 @@
+commit ebf2220e90ef80ae728eaa68bcba468210be21be
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Tue Mar 21 17:01:07 2023 +0200
+
+    tiedoston poisto ja uudelleennimentä
+
+tiedostoja/file2             | 0
+tiedostoja/{file1 => file22} | 0
+2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b47ea20d1e88c17ddc6589c5876c519826292c8d
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Tue Mar 21 15:20:27 2023 +0200
+
+    hakemiston ja tiedostojen luonti
+
+tiedostoja/file1 | 0
+tiedostoja/file2 | 0
+tiedostoja/file3 | 0
+3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6958a530997292648ef2bdec74a4d761ce2dc219
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Tue Mar 21 14:43:56 2023 +0200
+
+    uudelleennimentä
+
+tiedosto.txt => eka.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d0389b5a3177677ae1ee654c4ba23f7938a19aff
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Tue Mar 21 14:41:33 2023 +0200
+
+    tiedoston poisto
+
+tiedosto.txt | 4 +++-
+toinen.txt   | 1 -
+2 files changed, 3 insertions(+), 2 deletions(-)
+
+commit 77db4be16399d4411a25bf2618901a77fe048743
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Mon Mar 20 23:11:13 2023 +0200
+
+    tekstin muokkaamista
+
+kolmas.txt         | 1 +
+stuff/tiedosto.txt | 0
+toinen.txt         | 1 +
+3 files changed, 2 insertions(+)
+
+commit 92c1e3312a2b5977fa85edafbe3c621bd9bf9bf8
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Mon Mar 20 22:38:11 2023 +0200
+
+    lisättiin kolmas tiedosto
+
+kolmas.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f49d7491b8b9deec2586dfa4e327f27247a22024
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Mon Mar 20 22:31:53 2023 +0200
+
+    muutos ja lisäys
+
+tiedosto.txt | 2 ++
+toinen.txt   | 0
+2 files changed, 2 insertions(+)
+
+commit 06376eea8776c6fcf4691644ad1087fa3fbcbaea
+Author: Saana Ollikainen <saana.ollikainen@outlook.com>
+Date:   Mon Mar 20 20:21:02 2023 +0200
+
+    tiedosto.txt luotu
+
+tiedosto.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)
