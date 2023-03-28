@@ -9,7 +9,7 @@
 
 
 ### Viikko 2
-[Unittest ja testaaminen](https://github.com/saanaol/ot-harjoitustyo/tree/main/laskarit/viikko2)
+[tehtävät](https://github.com/saanaol/ot-harjoitustyo/tree/main/laskarit/viikko2)
 
 [vaatimusmaarittely.md](vaatimusmaarittely.md)
 
