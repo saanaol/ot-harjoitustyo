@@ -12,3 +12,6 @@
 tämä on paikallinen muutos
 
 toinen muutos
+
+### Viikko 2
+[vaatimusmaarittely.md](vaatimusmaarittely.md)
